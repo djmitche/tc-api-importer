@@ -1,0 +1,14 @@
+{
+  "name": "tc-api-importer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/djmitche/tc-api-importer",
+  "author": "Dustin J. Mitchell <dustin@mozilla.com>",
+  "dependencies": {
+    "console-taskgraph": "^1.5.1",
+    "taskcluster-client": "^28.1.0"
+  },
+  "scripts": {
+    "import": "node src/main.js"
+  }
+}
