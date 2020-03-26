@@ -9,6 +9,6 @@
     "taskcluster-client": "^28.1.0"
   },
   "scripts": {
-    "import": "node src/main.js"
+    "api-import": "node src/main.js"
   }
 }
