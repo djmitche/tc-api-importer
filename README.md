@@ -23,5 +23,5 @@ export TASKCLUSTER_ACCESS_TOKEN= ..
 then
 
 ```shell
-yarn run import
+yarn run api-import
 ```
